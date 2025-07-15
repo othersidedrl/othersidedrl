@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=othersidedrl&label=PROFILE+VIEWS)
 
 I'm a software engineer and competitive programmer from Indonesia 🇮🇩.  
-Currently working full-time remotely at a Swedish company and preparing for ICPC ✨.
+Currently preparing for ICPC & Gemastik ✨.
 
 ---
 
